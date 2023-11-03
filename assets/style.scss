@@ -1,0 +1,35 @@
+header{
+    background-color: green;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    
+ 
+}
+.nav{
+.umumi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .pronia{
+        span{
+            background-color: green;
+           color: white;
+           padding: 10px;
+            
+        }
+
+    }
+    .icons{
+        i{
+            padding-left: 20px;
+        }
+   }
+}
+
+}

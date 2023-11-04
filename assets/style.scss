@@ -33,3 +33,23 @@ header{
 }
 
 }
+.umumi2{
+    .submenu{
+        list-style-type: none; 
+        padding: 0; 
+        display: flex; 
+    }
+}
+.umumi{
+    .submenu{
+        .openhome{
+            display: flex;
+        }
+    }
+}
+
+.umumi3{
+    background-image: url("https://htmldemo.net/pronia/pronia/assets/images/slider/bg/1-1.jpg");
+    height: 100vh;
+    
+}
